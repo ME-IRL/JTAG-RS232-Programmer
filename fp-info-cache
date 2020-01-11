@@ -1,4 +1,4 @@
-16941070484162025
+16944227743435025
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44240,6 +44240,13 @@ AGB
 32
 32
 Custom
+AGB_open
+
+
+0
+32
+32
+Custom
 BGA-90_2x3x15_8.0x13.0mm_Pitch0.8mm
 BGA-90, http://www.issi.com/WW/pdf/42-45S32800J.pdf
 BGA-90
@@ -44253,6 +44260,13 @@ Altera UBGA U324 BGA-324
 0
 324
 324
+Custom
+GBA_Logo
+
+
+0
+0
+0
 Custom
 HDMI_A
 HDMI, Micro, Type D, THT, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
